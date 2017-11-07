@@ -2,10 +2,10 @@
 
 
 //INICIALIZAMOS VARIABLES
-int i = 0; 		//Variable contador para saber cuantos numero llevamos introducidos
+int i = 0; 	//Variable contador para saber cuantos numero llevamos introducidos
 float suma = 0; //Va a ir llevando la suma de todos los numeros para hacer la media
 float media;	//Variable de salida
-float input;//Variable para leer los valores de entrada
+float input;	//Variable para leer los valores de entrada
 
 int main(){
 	//Realizamos una primera introduccion de datos
