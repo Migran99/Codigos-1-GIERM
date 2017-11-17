@@ -20,4 +20,5 @@ int main(){
 			fprintf(fp, "\n%d * %d = %d", tabla, contador, resultado);
 		}
 	}
+	fclose(fp); //Cerramos el archivo
 }
