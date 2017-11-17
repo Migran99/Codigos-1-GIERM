@@ -1,13 +1,14 @@
 #include <stdio.h>
 
 
-//INICIALIZAMOS VARIABLES
-int i = 0; 	//Variable contador para saber cuantos numero llevamos introducidos
-float suma = 0; //Va a ir llevando la suma de todos los numeros para hacer la media
-float media;	//Variable de salida
-float input;	//Variable para leer los valores de entrada
-
 int main(){
+	
+	//INICIALIZAMOS VARIABLES
+	int i = 0; 	//Variable contador para saber cuantos numero llevamos introducidos
+	float suma = 0; //Va a ir llevando la suma de todos los numeros para hacer la media
+	float media;	//Variable de salida
+	float input;	//Variable para leer los valores de entrada
+
 	//Realizamos una primera introduccion de datos
 	printf("\nIntroduce un numero: ");
 	scanf("%f", &input);
