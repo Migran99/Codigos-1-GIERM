@@ -1,3 +1,5 @@
+//Miguel Granero Ramos
+
 #include <stdio.h>
 
 bool compar(char[20], char[20], int);
